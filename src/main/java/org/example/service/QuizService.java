@@ -21,7 +21,7 @@ public class QuizService {
             String url = BASE_URL + "/quiz/messages?regNo=" + regNo + "&poll=" + i;
             String response = HttpUtil.get(url);
 
-            System.out.println("POLL " + i + " RESPONSE: " + response);
+            //System.out.println("POLL " + i + " RESPONSE: " + response); This is for debugging i used it when the error was coming to check the get response
 
             if (response == null || !response.trim().startsWith("{")) {
                 System.out.println("Skipping invalid response...");
