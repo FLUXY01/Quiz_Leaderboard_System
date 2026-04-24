@@ -41,3 +41,8 @@ Charlie -> 260
   "submittedTotal" : 835,
   "attemptCount" : 5
 }
+
+## Output Screenshots
+![Screenshot 1](Screenshot 2026-04-24 191737.png)
+![Screenshot 2](Screenshot 2026-04-24 191811.png)
+![Screenshot 3](Screenshot 2026-04-24 191835.png)
