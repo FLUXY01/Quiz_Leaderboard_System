@@ -43,6 +43,6 @@ Charlie -> 260
 }
 
 ## Output Screenshots
-![Screenshot 1](Screenshot 2026-04-24 191737.png)
-![Screenshot 2](Screenshot 2026-04-24 191811.png)
-![Screenshot 3](Screenshot 2026-04-24 191835.png)
+![Output 1](output_1.png)
+![Output 2](output_2.png)
+![Output 3](project_structure.png)
